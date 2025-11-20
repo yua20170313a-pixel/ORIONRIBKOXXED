@@ -1,3 +1,4 @@
+warn("Script updated! Github Api.")
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
 local RunService = game:GetService("RunService")
@@ -672,7 +673,7 @@ end)
 -- Owner用テキスト
 local premiumText = ""
 if LocalPlayer.Name == "HfSapSatu" then
-    premiumText = "Owner(Dev)"
+    premiumText = "Owner(Dev)"
 end
 
 -- Avatarフレーム作成
